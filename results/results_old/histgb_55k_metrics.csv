@@ -1,0 +1,2 @@
+model,training_rows,test_rows,training_profiles,test_profiles,iterations,training_time_seconds,MAE_C,RMSE_C,R2
+HistGradientBoostingRegressor,55000,304393,55,14,100,1.19,14.684420618096578,19.275935839929954,0.5963326665493189

@@ -1,0 +1,2 @@
+model,train_rows,test_rows,train_profiles,test_profiles,MAE_C,RMSE_C,R2,training_seconds,prediction_seconds
+MLP Neural Network,1026423,304393,55,14,11.199037825797031,15.424619659808647,0.7415231871016369,225.5023214817047,0.26967453956604004

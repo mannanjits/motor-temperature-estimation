@@ -1,0 +1,4 @@
+model,train_R2,test_R2,gap,test_MAE,test_RMSE,seconds
+Ridge,0.769,0.7615,0.0075,9.801,14.818,8
+HistGradientBoosting,0.728,0.6374,0.0906,14.204,18.27,5
+MLP Neural Network,0.8688,0.811,0.0578,9.069,13.191,4049

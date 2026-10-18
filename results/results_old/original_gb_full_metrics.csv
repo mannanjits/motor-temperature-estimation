@@ -1,0 +1,2 @@
+model,training_rows,test_rows,training_profiles,test_profiles,n_estimators,max_depth,learning_rate,training_time_minutes,MAE_C,RMSE_C,R2
+GradientBoostingRegressor,1026423,304393,55,14,100,3,0.1,9.6,15.00454621686286,19.056463540523737,0.6054725020587263

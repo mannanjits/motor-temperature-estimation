@@ -1,0 +1,11 @@
+model,inputs,test_MAE,test_RMSE,test_R2,train_R2
+Linear Regression,7 features,16.445,19.934,0.5683,0.495
+Linear Regression,7 + i_squared,16.051,19.579,0.5835,0.5159
+Ridge Regression,7 features,16.445,19.934,0.5683,0.495
+Ridge Regression,7 + i_squared,16.051,19.579,0.5835,0.5159
+Lasso Regression,7 features,16.588,20.009,0.5651,0.4934
+Lasso Regression,7 + i_squared,16.204,19.592,0.583,0.513
+Polynomial Regression (deg 2),7 features,11.11,14.628,0.7675,0.6936
+Polynomial Regression (deg 2),7 + i_squared,11.258,14.906,0.7586,0.7097
+Polynomial (deg 3) + Ridge,7 features,9.801,14.818,0.7615,0.769
+Polynomial (deg 3) + Ridge,7 + i_squared,9.647,14.902,0.7588,0.7787

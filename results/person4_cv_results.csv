@@ -1,0 +1,7 @@
+model,cv_MAE,cv_RMSE,cv_R2,cv_R2_std,train_R2
+Linear Regression,17.36,21.404,0.3717,0.1156,0.4503
+Polynomial (deg 2),13.182,19.893,0.4129,0.3636,0.6734
+Ridge,17.361,21.404,0.3717,0.1156,0.4503
+Lasso,17.446,21.42,0.3706,0.1155,0.4484
+HistGradientBoosting,15.237,19.303,0.4902,0.0878,0.7951
+MLP Neural Network,14.463,19.055,0.5064,0.0426,0.7778

@@ -1,0 +1,5 @@
+model,test_MAE,test_RMSE,test_R2,train_R2,seconds
+Linear Regression,16.445,19.934,0.5683,0.495,0.4
+Polynomial Regression (deg 2),11.11,14.628,0.7675,0.6936,3.6
+Ridge Regression,16.445,19.934,0.5683,0.495,0.3
+Lasso Regression,16.588,20.009,0.5651,0.4934,0.4

@@ -1,0 +1,2 @@
+model,training_rows,test_rows,training_profiles,test_profiles,features,iterations,training_time_minutes,MAE_C,RMSE_C,R2
+HistGradientBoostingRegressor,800000,304393,55,14,"u_q, u_d, motor_speed, i_d, i_q, ambient, torque",100,0.1,14.018378818322372,18.35496400424633,0.6339842819882658

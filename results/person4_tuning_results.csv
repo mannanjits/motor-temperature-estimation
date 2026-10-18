@@ -1,0 +1,4 @@
+model,best_params,cv_RMSE,seconds
+Ridge,"{'polynomialfeatures__degree': 3, 'ridge__alpha': 1}",15.878,3
+HistGradientBoosting,"{'l2_regularization': 1.0, 'learning_rate': 0.05, 'max_leaf_nodes': 15}",19.186,8
+MLP Neural Network,"{'mlpregressor__alpha': 0.01, 'mlpregressor__hidden_layer_sizes': (128, 64)}",17.648,732
