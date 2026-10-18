@@ -84,6 +84,9 @@ The tuned MLP achieved the best test performance among the models listed above.
 
 ## Repository Structure
 
+## Repository Structure
+
+```
 motor-temperature-prediction/
 ├── README.md
 ├── .gitignore
@@ -99,6 +102,13 @@ motor-temperature-prediction/
 │   ├── person4_tuning_results.csv
 │   └── results_old/
 └── report.pdf
+```
+
+**Dataset:** The dataset is not included in this repository because it exceeds GitHub's standard file size limit. Download it here:
+
+[Download measures_v2.csv from Google Drive](https://drive.google.com/file/d/111y8yCgJpIWBXK72eP6lkDzrxpqKaKWb/view?usp=drive_link)
+
+After downloading, place `measures_v2.csv` inside the `data/` folder in the project directory.
 
 
 The dataset is not stored in this repository. Download it separately using the Google Drive link above.
